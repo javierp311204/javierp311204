@@ -90,5 +90,6 @@ Fuera del código: fútbol y aprendizaje continuo.
 
 ## Contacto
 
-📧 [jperez.salas31@gmail.com](mailto:jperez.salas31@gmail.com)  
-🌐 [javier-perez-portfolio.vercel.app](https://javier-perez-portfolio.vercel.app/)
+📧 [Mi Correo](mailto:jperez.salas31@gmail.com)  
+🌐 [Mi Portafolio](https://javier-perez-portfolio.vercel.app/)  
+🔗 [Mi Perfil en LinkedIn](https://www.linkedin.com/in/javiperezsalas)
